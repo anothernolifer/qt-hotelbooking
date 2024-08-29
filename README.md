@@ -3,7 +3,7 @@ Simple application to book hotels
 
 USER INTERFACE DEMONSTRATION(CLICK LOGO TO WATCH VIDEO)
 
-[![Watch Video](https://www.dropbox.com/scl/fi/3fxfp6tic74f0g71732ph/ysss-booking.png?dl=0)](https://www.veed.io/view/572f87e8-7a88-405c-9410-83275aac63e6)
+[![Watch Video](https://www.dropbox.com/scl/fi/mslv2zwfm2pm809iu344s/ysss-booking-admin.png?rlkey=cnf2lw4sj46s2ba79qa3zy0cs&st=hhk853xx&dl=0)](https://www.veed.io/view/572f87e8-7a88-405c-9410-83275aac63e6)
 
 ADMIN INTERFACE DEMONSTRATION(CLICK LOGO TO WATCH VIDEO)
 

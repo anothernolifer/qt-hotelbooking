@@ -1,5 +1,9 @@
 # INTRODUCTION
-Simple application to book hotels made using qt creator and cpp
+GUI based application to book hotels made using qt creator and cpp
+
+# MEMBERS
+* Sashank khatiwada
+ - Whatsapp : 9829483310
 
 # USER INTERFACE DEMONSTRATION
 

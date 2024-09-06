@@ -2,14 +2,14 @@
 GUI based application to book hotels made using qt creator and cpp
 
 # MEMBERS
-- Item 1 Sashank khatiwada
-    - Sub Item 1 Whatsapp : 9829483310
-* Sachin Luitel
-    Whatsapp : 9817310930
-* Subidha Pokharel
-    Whatsapp : 9816078662
-* Yogesh Khadka
-    Whatsapp : 9811380604
+-  Sashank khatiwada
+    -  Whatsapp : 9829483310
+- Sachin Luitel
+    - Whatsapp : 9817310930
+- Subidha Pokharel
+    - Whatsapp : 9816078662
+- Yogesh Khadka
+    - Whatsapp : 9811380604
 
 
 

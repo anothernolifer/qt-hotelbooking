@@ -260,8 +260,8 @@ void NewWindow3::on_pushButton_clicked()
             int noseats = c.toInt();
             QString d = ui->lineEdit_7->text();
             int cvv = d.toInt();
-            QString origin = ui->comboBox_3->currentText();
-            QString destination = ui->comboBox_2->currentText();
+            QString in = ui->comboBox_3->currentText();
+            QString out = ui->comboBox_2->currentText();
             QString hotel = ui->comboBox->currentText();
             QString meal, seat, card;
             QString depDate= selectedDate_2.toString(Qt::ISODate);
@@ -281,7 +281,7 @@ void NewWindow3::on_pushButton_clicked()
             else if(ui->radioButton_3->isChecked())
                 card = "CreditCard";
 
-            Passenger p1(fname,lname,address,origin,destination,meal,seat,hotel,card,phone,depDate,cardno,cvv,carddate);
+            Passenger p1(fname,lname,address,in,out,meal,seat,hotel,card,phone,depDate,cardno,cvv,carddate);
             TicketType* ticketType;
             if (seat=="Economy") {
                 ticketType = new Economy(&p1);

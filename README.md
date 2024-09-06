@@ -31,7 +31,7 @@ GUI based application to book hotels made using qt creator and cpp
 - Download zip file of this repository.
 - Extract the files from zip file.
 - Click on open project in QT Creator and click on extracted folder.
-- CLick on build.
+- Click on build.
 
 
 

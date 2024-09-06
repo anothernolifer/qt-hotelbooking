@@ -2,8 +2,16 @@
 GUI based application to book hotels made using qt creator and cpp
 
 # MEMBERS
-* First point
-- Nested point
+* Sashank khatiwada
+    Whatsapp : 9829483310
+* Sachin Luitel
+    Whatsapp : 9817310930
+* Subidha Pokharel
+    Whatsapp : 9816078662
+* Yogesh Khadka
+    Whatsapp : 9811380604
+
+
 
 # USER INTERFACE DEMONSTRATION
 

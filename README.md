@@ -6,10 +6,10 @@ GUI based application to book hotels made using qt creator and cpp
 
 # MEMBERS
 -  Sashank khatiwada
-    - Github : [[Watch Video]](https://www.veed.io/view/572f87e8-7a88-405c-9410-83275aac63e6)
+    - Github : [[anothernolifer]](https://github.com/anothernolifer)
     -  Whatsapp : 9829483310
 - Sachin Luitel
-    -Github :  [[Lm10sachin]](https://github.com/Lm10sachin) 
+    - Github : [[Lm10sachin]](https://github.com/Lm10sachin) 
     - Whatsapp : 9817310930
 - Subidha Pokharel
     - Github : [[subidhapokharel]](https://github.com/subidhapokharel)

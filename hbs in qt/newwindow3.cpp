@@ -244,7 +244,7 @@ void NewWindow3::on_pushButton_clicked()
 
             if(currentDate > selectedDate_2)
             {
-                QMessageBox::warning(this,"Error","Please Choose correct checkin date");
+                QMessageBox::warning(this,"Error","Please Choose correct booking date");
             }
         }
         if(flag=="false" || (flag=="true" && (selectedDate>=currentDate && selectedDate_2>=currentDate))){
